@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="freefire"
+  id="myeclipse.1481179741066"
+  context-root="/freefire"
+  j2ee-spec="6.0"
+  archive="freefire.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

@@ -1,0 +1,128 @@
+.video_main {
+	position: absolute;
+}
+
+.video_info {
+	position: relative;
+}
+
+.title_ {
+	position: relative;
+	left: 1090px;
+	top: 80px;
+	width: 450px;
+}
+
+.video_title {
+	font-family: Arial;
+	font-size: 15px;
+	color: #575757;
+}
+
+.detail_ {
+	position: relative;
+	left: 1080px;
+	top: 100px;
+	width: 355px;
+}
+
+.video_detail {
+	font-family: Arial;
+	font-size: 15px;
+	color: #7a7a7a;
+}
+
+.vedio_logo {
+	position: absolute;
+	left: 5px;
+	top: 5px;
+}
+
+.vedio_img {
+	position: absolute;
+	width: 64px;
+	height: 64px;
+	left: 1075px;
+}
+
+.video_ {
+	margin: 5px;
+	float: left;
+}
+
+.related_video_div {
+	position: relative;
+	left: 1080px;
+	top: 140px;
+	width: 355px;
+}
+
+.related_video_div a {
+	display: inline-block;
+	width: 330px;
+	height: 30px;
+	text-decoration: none;
+	vertical-align: middle;
+	font: 15px/1 Arial, sans-serif;
+	color: #000;
+	opacity: 0.95;
+}
+
+.related_video_div a:hover {
+	opacity: 1;
+	text-decoration: underline;
+}
+
+.related_video_font {
+	font: 20px/1 Microsoft YaHei, sans-serif;
+	color: #323232;
+	margin-bottom: 15px;
+}
+
+.share_div {
+	position: relative;
+	left: 1080px;
+	top: 160px;
+	width: 355px;
+}
+
+.share_div a {
+	display: inline-block;
+	width: 100px;
+	height: 20px;
+	text-decoration: none;
+	vertical-align: middle;
+	font: 13px/1 Microsoft YaHei, sans-serif;
+	color: #000;
+	opacity: 0.95;
+}
+
+.share_div a:hover {
+	opacity: 1;
+	text-decoration: underline;
+}
+
+.share_div_font {
+	font: 17px/1 Microsoft YaHei, sans-serif;
+	color: #181818;
+	margin-bottom: 10px;
+}
+
+.leaving_message {
+	position: relative;
+	top: 100px;
+	left: 20px;
+}
+
+.leaving_message_title {
+	font: 19px/1 Microsoft YaHei, sans-serif;
+	color: #181818;
+}
+
+.leaving_message_content {
+	font: 15px/1 Microsoft YaHei, sans-serif;
+	color: #181818;
+	position: relative;
+	left: 100px;
+	top: -22px;
+}
