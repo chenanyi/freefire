@@ -1,0 +1,3 @@
+SSH git@github.com:chenanyi/freefire.git
+
+https://github.com/chenanyi/freefire.git
